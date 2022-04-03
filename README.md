@@ -1,5 +1,5 @@
-##TodoLists
-###Author: Maxime Blampain
+## TodoLists
+### Author: Maxime Blampain
 
 - Dashboard (stats):
     * Todolist (les taches avec les deadlines les plus récentes)
@@ -16,7 +16,7 @@
 Liste :
 - Liste de tâches (titre, description, deadline, statut)
 
-##How to launch project ? 
+## How to launch project ? 
 
 Please run `npm install` before to get all nodes_modules.
 
